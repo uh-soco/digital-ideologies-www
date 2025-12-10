@@ -40,13 +40,13 @@ We invite up to 20 scholars at any career stage to submit a 2--3 page position p
 * examples of ideology in HCI research or practice
 * political/methodological suggestions for making ideology visible.
 
-Non-verbal or pictorial contributions are welcome, as the submissions will serve as material for the workshop activities. Papers will be reviewed for relevance, originality, and potential to advance the conversation. Selection will balance diversity in background, seniority, geography, and perspective, if oversubscribed. Selected contributions will be published on arXiv with author consent. One author per submission is required to attend, but we will accommodate remote participation in specific cases. 
+Non-verbal or pictorial contributions are welcome, as the submissions will serve as material for the workshop activities. Papers will be reviewed for relevance, originality, and potential to contribute to the advancement of the conversation. Selection will balance diversity in background, seniority, geography, and perspective, if oversubscribed. Selected contributions will be published on arXiv with author consent. One author per submission is required to attend, but we will accommodate remote participation in specific cases. 
 
-Submission should be in a PDF format with a maximum file size of 10 MT. Submissions should be sent on dd.mm.yyyy at the latest.
+Submission should be in a PDF format with a maximum file size of 10 MT. The submission deadline is on the fifth of February 2026 AoE. Notifications of acceptance will be sent later in February.
 
 Submit [here](https://elomake.helsinki.fi/lomakkeet/138226/lomake.html).
 
-ACM single column templates can be found from here:
+ACM single column templates can be found here:
 
 * [Microsoft Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
 * [LaTeX (Use sample-manuscript.tex for submissions)](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
