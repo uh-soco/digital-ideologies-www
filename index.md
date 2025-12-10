@@ -42,7 +42,9 @@ We invite up to 20 scholars at any career stage to submit a 2--3 page position p
 
 Non-verbal or pictorial contributions are welcome, as the submissions will serve as material for the workshop activities. Papers will be reviewed for relevance, originality, and potential to advance the conversation. Selection will balance diversity in background, seniority, geography, and perspective, if oversubscribed. Selected contributions will be published on arXiv with author consent. One author per submission is required to attend, but we will accommodate remote participation in specific cases. 
 
-Submission should be in a PDF format with a maximum file size of 10 MT. Submissions should be sent to X on dd.mm.yyyy at the latest.
+Submission should be in a PDF format with a maximum file size of 10 MT. Submissions should be sent on dd.mm.yyyy at the latest.
+
+Submit [here](https://elomake.helsinki.fi/lomakkeet/138226/lomake.html).
 
 ACM single column templates can be found from here:
 
