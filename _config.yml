@@ -5,4 +5,7 @@ url: https://ideologies.digital
 repository: https://github.com/uh-soco/digital-ideologies-www
 site_branch: master
 
-#remote_theme: broccolini/swiss
+remote_theme: pages-themes/primer@v0.6.0
+
+plugins:
+  - jekyll-remote-theme
