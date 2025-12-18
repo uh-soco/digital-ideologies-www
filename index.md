@@ -1,3 +1,8 @@
+
+---
+layout: default
+---
+
 # Call for submissions
 
 The recognition that technology is not neutral has deep roots in science and technology studies. Building on this foundation, HCI work has increasingly acknowledged that technology design and research are based on embedded values and are not neutral processes. Following this development, our workshop frames political research in HCI at the level of **ideologies**. Ideologies can be understood as foundational belief systems that shape how groups perceive and interact with the world. Ideologies inform more specific group attitudes and have the capacity to shape how individual members of the group interpret events, construct opinions, and engage in social practices and discourse. Ideologies are not just isolated belief systems, but through the processes of group identification and differentiation, they section society. 
