@@ -22,7 +22,7 @@ layout: default
     letter-spacing: -0.02em;
   ">
     <span style="color: #0550ae; display: block; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 10px; font-weight: 800;">CHI 2026 Workshop</span>
-    <em>CHIdeology: Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
+    <em>Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
   </h1>
 </div>
 
@@ -59,8 +59,6 @@ To work toward these aims, our collaborative endeavor will initiate discussion o
 Identifying and curating the ideological forces, tensions, and dilemmas in HCI will foster productive discussion for the evolution of the field and make our political work more transparent.
 
 Read more in our Extended Abstract preprint: [CHI26_CHIdeology_Preprint.pdf](assets/CHI26_CHIdeology_Preprint.pdf)
-
----
 
 # Submission Instructions
 
