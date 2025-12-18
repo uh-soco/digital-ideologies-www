@@ -8,3 +8,46 @@
 h1 h2 h3 h4 h5 h6 {
     font-family: "Josefin Sans", sans-serif;
 }
+
+// 1. Overall Page Styling
+body {
+  background-color: #fdfcfb !important;
+  color: #2c3e50 !important;
+  font-family: "Source Serif Pro", serif; // Optional: Gives it a 'published' feel
+  line-height: 1.6;
+}
+
+// 2. Header Styling (Titles)
+h1, h2, h3, h4 {
+  color: #1a1a1a !important;
+  border-bottom-color: #eeeae6 !important; // Softens the horizontal lines
+  font-weight: 700;
+}
+
+// 3. Link Styling
+a {
+  color: #8e44ad !important; // Deep Purple
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.3s ease;
+
+  &:hover {
+    text-decoration: none;
+    border-bottom: 1px solid #8e44ad;
+    color: #9b59b6 !important;
+  }
+}
+
+// 4. Style for "Call-out" boxes or Blockquotes
+blockquote {
+  border-left: 4px solid #8e44ad !important;
+  background-color: #f8f1fb !important;
+  color: #5d4d66 !important;
+  padding: 10px 20px;
+  border-radius: 0 4px 4px 0;
+}
+
+// 5. Container adjustment
+.container-lg {
+  max-width: 850px !important; // Slightly wider for better readability
+}
