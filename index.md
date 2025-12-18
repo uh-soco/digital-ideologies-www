@@ -2,8 +2,6 @@
 layout: default
 ---
 
-# CHIdeology
-
 <div class="flash" style="
   border: 1px solid rgba(5, 80, 174, 0.1); 
   background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); 
@@ -14,7 +12,7 @@ layout: default
   box-shadow: 0 10px 25px rgba(5, 80, 174, 0.05);
   border-left: 8px solid #0550ae;
 ">
-  <h2 style="
+  <h1 style="
     font-size: 1.6rem; 
     line-height: 1.4; 
     border-bottom: none; 
@@ -24,11 +22,11 @@ layout: default
     letter-spacing: -0.02em;
   ">
     <span style="color: #0550ae; display: block; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 10px; font-weight: 800;">CHI 2026 Workshop</span>
-    <em>Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
-  </h2>
+    <em>CHIdeology: Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
+  </h1>
 </div>
 
-# Call for submissions
+## Call for submissions
 
 The recognition that technology is not neutral has deep roots in science and technology studies. Building on this foundation, HCI work has increasingly acknowledged that technology design and research are based on embedded values and are not neutral processes. 
 
@@ -46,7 +44,6 @@ Our workshop brings ideologies in HCI more explicitly visible. This is not to sa
     <div style="flex: 1; min-width: 150px; padding: 10px;"><strong>3. Develop</strong><br><small>new ways of working</small></div>
   </div>
 </div>
-
 
 
 ### Discussion Topics
@@ -106,8 +103,6 @@ Submission should be in a PDF format with a maximum file size of 10 MT. Notifica
 
 # Organizers
 
-The workshop organizers bring together interdisciplinary perspectives from their diverse backgrounds in HCI, design, political science, social psychology and social science. This will pave the way for including various perspectives for injecting the HCI community with new ways of working with and on ideologies.
-
 **Felix Anand Epp** is a postdoctoral researcher at the Department of Design at Aalto University and the Faculty of Social Sciences at the University of Helsinki. Using design practice and in-situ research, he investigates how interactive technologies and sociotechnical imaginaries shape social life. He is coordinating this workshop relying on his extensive experience in organizing and facilitating participatory workshops and will facilitate parts of the workshop activities.
 
 **Matti Nelimarkka** is a university lecturer at the Faculty of Social Sciences at the University of Helsinki and an affiliated researcher at Aalto University's Department of Computer Science. His work has focused on the intersection of politics and technology, both examining the construction of technology and the use of technology for political communication. He has extensive experience in CHI and CSCW on publishing and reviewing papers related to politics. For the workshop, he advises on political science perspective, manages the web page and serves as a senior editor on the planned special issue.
@@ -119,5 +114,3 @@ The workshop organizers bring together interdisciplinary perspectives from their
 **Os Keyes** is a Postdoctoral Fellow at the University of Massachusetts, Lowell. Their work frequently explores the political and ideological underpinnings of computing technologies, with a focus on questions of gender, disability and race. In the workshop, Os will organize and manage the remote participation and advise on critical perspectives from their background in law and studies on gender.
 
 **Shaowen Bardzell** is a Professor in the School of Interactive Computing at Georgia Institute of Technology. A common thread throughout her work is the exploration of the contributions of feminism, design, and social science to support the role of technology in social change. She provides advocacy for social change during the planning and execution of the workshop, facilitates some of the activities and serves as senior editor for the planned special issue.
-
-Together our team represents different sections of the HCI community and our shared experience in facilitating group work, will guarantee productive discussion on a delicate and polarizing topic as ideologies.
