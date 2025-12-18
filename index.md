@@ -58,7 +58,7 @@ To work toward these aims, our collaborative endeavor will initiate discussion o
 
 Identifying and curating the ideological forces, tensions, and dilemmas in HCI will foster productive discussion for the evolution of the field and make our political work more transparent.
 
-Read more in our Extended Abstract preprint: [CHI26_CHIdeology_Preprint.pdf](https://ideologies.digital/assets/css/CHI26_CHIdeology_Preprint.pdf)
+Read more in our Extended Abstract preprint: [CHI26_CHIdeology_Preprint.pdf](assets/CHI26_CHIdeology_Preprint.pdf)
 
 ---
 
