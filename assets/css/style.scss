@@ -68,3 +68,14 @@ blockquote {
   max-width: 880px !important;
   padding: 40px !important;
 }
+p {
+  margin-bottom: 1.5em !important; /* Adds more space between paragraphs */
+}
+
+li {
+  margin-bottom: 0.8em; /* Spaces out list items so they don't look cramped */
+}
+
+strong {
+  color: #1a1a1a; /* Makes bold text slightly darker than normal text for contrast */
+}
