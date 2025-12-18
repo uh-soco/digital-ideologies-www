@@ -2,12 +2,13 @@
 
 
 ---
-<div style="position: sticky; top: 30px; float: left; width: 200px; margin-left: -240px; border-left: 3px solid #0366d6; padding-left: 15px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
-  <h2 style="font-size: 1.25rem; margin-top: 0; color: #24292e;">CHIdeology</h2>
-  <p style="font-size: 0.85rem; color: #57606a; line-height: 1.4;">
-    CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies
-  </p>
-</div>
+# CHIdeology
+
+<br>
+
+## *CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies*
+<br>
+
 
 # Call for submissions
 
