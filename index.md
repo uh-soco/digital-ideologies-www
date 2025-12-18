@@ -1,8 +1,9 @@
 
----
-layout: default
----
 
+# CHIdeology
+
+CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies
+---
 
 
 # Call for submissions
