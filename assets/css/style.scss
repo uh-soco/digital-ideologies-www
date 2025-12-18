@@ -1,53 +1,70 @@
 ---
 ---
 
+/* 1. Google Font Imports MUST be above the theme import */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap');
+
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
-
-h1 h2 h3 h4 h5 h6 {
-    font-family: "Josefin Sans", sans-serif;
-}
-
-// 1. Overall Page Styling
+/* 2. Overall Page Styling */
 body {
-  background-color: #fdfcfb !important;
-  color: #2c3e50 !important;
-  font-family: "Source Serif Pro", serif; // Optional: Gives it a 'published' feel
-  line-height: 1.6;
+  background-color: #fdfcfb !important; /* Soft paper white */
+  color: #24292e !important;            /* Dark slate for readability */
+  font-family: "Source Serif 4", serif !important; 
+  line-height: 1.7;
 }
 
-// 2. Header Styling (Titles)
-h1, h2, h3, h4 {
+/* 3. Header Styling (Fix: Added commas between h1-h6) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Josefin Sans", sans-serif !important;
   color: #1a1a1a !important;
-  border-bottom-color: #eeeae6 !important; // Softens the horizontal lines
+  border-bottom-color: #eeeae6 !important;
   font-weight: 700;
 }
 
-// 3. Link Styling
+/* 4. Link Styling (Modern Academic: Deep Navy to Crimson) */
 a {
-  color: #8e44ad !important; // Deep Purple
+  color: #0550ae !important; /* Academic Blue */
   text-decoration: none;
-  border-bottom: 1px solid transparent;
-  transition: border-color 0.3s ease;
-
-  &:hover {
-    text-decoration: none;
-    border-bottom: 1px solid #8e44ad;
-    color: #9b59b6 !important;
-  }
+  border-bottom: 1px solid rgba(5, 80, 174, 0.2);
+  transition: all 0.3s ease;
 }
 
-// 4. Style for "Call-out" boxes or Blockquotes
+a:hover {
+  color: #cf222e !important; /* Crimson Red on hover */
+  border-bottom-color: #cf222e;
+  text-decoration: none !important;
+}
+
+/* 5. Custom Button Styling (The Blue Button you wanted) */
+.btn-primary {
+  background-color: #0550ae !important;
+  border-color: #0550ae !important;
+  color: #ffffff !important;
+  font-family: "Josefin Sans", sans-serif !important;
+  font-weight: 600 !important;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1) !important;
+}
+
+.btn-primary:hover {
+  background-color: #0a3069 !important; /* Darker navy */
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15) !important;
+}
+
+/* 6. Blockquote Styling (Academic Citation Style) */
 blockquote {
-  border-left: 4px solid #8e44ad !important;
-  background-color: #f8f1fb !important;
-  color: #5d4d66 !important;
-  padding: 10px 20px;
+  border-left: 4px solid #cf222e !important; /* Crimson accent */
+  background-color: #f6f8fa !important;
+  color: #57606a !important;
+  padding: 15px 25px;
+  font-style: italic;
   border-radius: 0 4px 4px 0;
 }
 
-// 5. Container adjustment
+/* 7. Container adjustment for a "Paper" feel */
 .container-lg {
-  max-width: 850px !important; // Slightly wider for better readability
+  max-width: 880px !important;
+  padding: 40px !important;
 }
