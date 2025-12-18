@@ -69,6 +69,7 @@ Submission should be in a PDF format with a maximum file size of 10 MT. The subm
           font-weight: 600;">
   Submit to CHIdeology
 </a>
+
 ACM single column templates can be found here:
 
 * [Microsoft Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
