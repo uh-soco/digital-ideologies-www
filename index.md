@@ -19,16 +19,21 @@ Following this development, our workshop frames political research in HCI at the
 Our workshop brings ideologies in HCI more explicitly visible. This is not to say that the theme would have been absent on the field: HCI has engaged with ideologies by criticizing hegemonic perspectives, which are shared by a large fraction of society and therefore create widely accepted norms, like capitalism, individualism or modernism. Differing ideological stances are also reflected in methodological tensions: for example, feminist methodology refutes the belief in objective truth in science and postulates a science influenced by social values. This creates a tension with the influences of the natural sciences in computer science and, consequently, HCI. In design, ideologies are present in the differing worldviews of stakeholders. Yet, until now, examples such as these have not been under scrutiny under a common umbrella. This is precisely what our workshop aims to change.
 
 ---
+We approach ideologies as an object of study and observation and organize a workshop to
 
-<div style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 8px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
-  <h2 style="margin-top: 0; border-bottom: none;">The Aim for the Workshop</h2>
-  <p>We approach ideologies as an object of study and observation and organize a workshop to:</p>
-  <div style="display: flex; gap: 20px; justify-content: space-between; text-align: center; flex-wrap: wrap;">
-    <div style="flex: 1; min-width: 150px; padding: 10px;"><strong>1. Disambiguate</strong><br><small>the term ideology</small></div>
-    <div style="flex: 1; min-width: 150px; padding: 10px; border-left: 1px solid #eee; border-right: 1px solid #eee;"><strong>2. Identify</strong><br><small>areas of ideology in HCI</small></div>
-    <div style="flex: 1; min-width: 150px; padding: 10px;"><strong>3. Develop</strong><br><small>new ways of working</small></div>
-  </div>
-</div>
+
+
+1.  disambiguate the term ideology,
+
+
+
+2.  identify areas of ideology in and around HCI, and
+
+
+
+3.  develop new ways of working with ideology
+
+
 
 ### Discussion Topics
 To work toward these aims, our collaborative endeavor will initiate discussion on:
