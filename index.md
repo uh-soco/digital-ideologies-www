@@ -1,88 +1,89 @@
 ---
 layout: default
 ---
+
 # CHIdeology
 
-<br>
-
-## *CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies*
-<br>
-
+<div class="flash flash-info" style="border: none; background-color: #f0f7ff; color: #0550ae; padding: 30px; border-radius: 12px; margin: 20px 0 40px 0;">
+  <h2 style="font-size: 1.4rem; line-height: 1.5; border-bottom: none; margin-top: 0; color: #0550ae !important;">
+    <em>CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
+  </h2>
+</div>
 
 # Call for submissions
 
-The recognition that technology is not neutral has deep roots in science and technology studies. Building on this foundation, HCI work has increasingly acknowledged that technology design and research are based on embedded values and are not neutral processes. Following this development, our workshop frames political research in HCI at the level of **ideologies**. Ideologies can be understood as foundational belief systems that shape how groups perceive and interact with the world. Ideologies inform more specific group attitudes and have the capacity to shape how individual members of the group interpret events, construct opinions, and engage in social practices and discourse. Ideologies are not just isolated belief systems, but through the processes of group identification and differentiation, they section society. 
+The recognition that technology is not neutral has deep roots in science and technology studies. Building on this foundation, HCI work has increasingly acknowledged that technology design and research are based on embedded values and are not neutral processes. 
+
+Following this development, our workshop frames political research in HCI at the level of **ideologies**. Ideologies can be understood as foundational belief systems that shape how groups perceive and interact with the world. Ideologies inform more specific group attitudes and have the capacity to shape how individual members of the group interpret events, construct opinions, and engage in social practices and discourse. Ideologies are not just isolated belief systems, but through the processes of group identification and differentiation, they section society. 
 
 Our workshop brings ideologies in HCI more explicitly visible. This is not to say that the theme would have been absent on the field: HCI has engaged with ideologies by criticizing hegemonic perspectives, which are shared by a large fraction of society and therefore create widely accepted norms, like capitalism, individualism or modernism. Differing ideological stances are also reflected in methodological tensions: for example, feminist methodology refutes the belief in objective truth in science and postulates a science influenced by social values. This creates a tension with the influences of the natural sciences in computer science and, consequently, HCI. In design, ideologies are present in the differing worldviews of stakeholders. Yet, until now, examples such as these have not been under scrutiny under a common umbrella. This is precisely what our workshop aims to change.
 
+---
 
-## The aim for the workshop
+<div style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 8px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
+  <h2 style="margin-top: 0; border-bottom: none;">The Aim for the Workshop</h2>
+  <p>We approach ideologies as an object of study and observation and organize a workshop to:</p>
+  <div style="display: flex; gap: 20px; justify-content: space-between; text-align: center; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 10px;"><strong>1. Disambiguate</strong><br><small>the term ideology</small></div>
+    <div style="flex: 1; min-width: 150px; padding: 10px; border-left: 1px solid #eee; border-right: 1px solid #eee;"><strong>2. Identify</strong><br><small>areas of ideology in HCI</small></div>
+    <div style="flex: 1; min-width: 150px; padding: 10px;"><strong>3. Develop</strong><br><small>new ways of working</small></div>
+  </div>
+</div>
 
-We approach ideologies as an object of study and observation and organize a workshop to
-
-1.  disambiguate the term ideology,
-
-2.  identify areas of ideology in and around HCI, and
-
-3.  develop new ways of working with ideology
-
+### Discussion Topics
 To work toward these aims, our collaborative endeavor will initiate discussion on:
 
--   How do ideologies manifest across HCI topics, such as design principles, user engagement, data ethics, privacy, inclusion, or access?
+* How do ideologies manifest across HCI topics (design principles, ethics, privacy, etc.)?
+* Why should we care about ideology in HCI? What is it not appropriate for?
+* How do ideologies affect core assumptions, research questions, and methods?
+* What are the ideological dilemmas of HCI?
+* How can our field's unique methods inform ideology research beyond our field?
+* Leveraging theoretical frameworks from political science and critical theory.
+* Pragmatically, how does attending to ideology help researchers do their work better?
 
--   Why should we care about ideology in HCI? What is ideology not appropriate for in HCI?
+Identifying and curating various ideological forces, tensions, and dilemmas in HCI will foster **productive discussion** for the evolution of the field and make our political work more transparent.
 
--   How do ideologies affect core assumptions, research questions, and methods in HCI?
+---
 
--   What are the ideological dilemmas of HCI?
+# Submission Instructions
 
--   How can our field's unique methods inform ideology research and produce knowledge beyond our field?
+<div class="Box Box--condensed" style="margin-bottom: 30px;">
+  <div class="Box-header" style="background-color: #f6f8fa;">
+    <h3 class="Box-title">Requirements at a Glance</h3>
+  </div>
+  <ul>
+    <li class="Box-row"><strong>Format:</strong> 2–3 page position paper (ACM Single Column or DIS Pictorial)</li>
+    <li class="Box-row"><strong>Deadline:</strong> <span class="Label Label--danger">5 February 2026 AoE</span></li>
+  </ul>
+</div>
+We invite up to 20 scholars at any career stage to submit a 2–3 page position paper (ACM single-column or DIS2026 pictorial format) engaging with any of the following:
 
--   How do we leverage theoretical concepts and/or frameworks from political science, critical theory, and other social sciences to inform HCI research?
-
--   What methods or frameworks can help to study and explicate the covert ideological influences in HCI research? Pragmatically, how does attending to ideology help HCI researchers and practitioners do their work better?
-
-Identifying and curating various ideological forces, tensions, and dilemmas in HCI and ways to operationalize and study them will foster **productive discussion** for the evolution of the field and make our political work more transparent. By placing HCI's works in to the larger landscape of political forces, we should increase its impact on fields beyond technology design, like policy and the social sciences.
-
-# Submission instructions
-
-We invite up to 20 scholars at any career stage to submit a 2--3 page position paper (ACM single-column or DIS2026 pictorial format) engaging with any of the following: 
-* how they define or interpret "ideology" 
+* how they define or interpret “ideology”
 * examples of ideology in HCI research or practice
 * political/methodological suggestions for making ideology visible.
 
-Non-verbal or pictorial contributions are welcome, as the submissions will serve as material for the workshop activities. Papers will be reviewed for relevance, originality, and potential to contribute to the advancement of the conversation. Selection will balance diversity in background, seniority, geography, and perspective, if oversubscribed. Selected contributions will be published on arXiv with author consent. One author per submission is required to attend. 
+Non-verbal or pictorial contributions are welcome, as the submissions will serve as material for the workshop activities. Papers will be reviewed for relevance, originality, and potential to contribute to the advancement of the conversation. Selection will balance diversity in background, seniority, geography, and perspective, if oversubscribed. Selected contributions will be published on arXiv with author consent. One author per submission is required to attend.
 
-Submission should be in a PDF format with a maximum file size of 10 MT. The submission deadline is on the fifth of February 2026 AoE. Notifications of acceptance will be sent later in February.
+Submission should be in a PDF format with a maximum file size of 10 MT. Notifications of acceptance will be sent later in February.
 
-<a href="https://elomake.helsinki.fi/lomakkeet/138226/lomake.html" 
-   class="btn btn-primary btn-large" 
-   style="background-color: #0366d6 !important; 
-          border-color: #0366d6 !important; 
-          color: #ffffff !important; 
-          font-size: 1.5rem; 
-          padding: 15px 30px; 
-          display: inline-block; 
-          margin: 20px 0; 
-          text-decoration: none !important;
-          border-radius: 6px;
-          font-weight: 600;">
-  Submit to CHIdeology
-</a>
 
-ACM single column templates can be found here:
+<div style="text-align: center; margin: 40px 0;">
+  <a href="https://elomake.helsinki.fi/lomakkeet/138226/lomake.html" 
+     class="btn btn-primary btn-large" 
+     style="background-color: #0366d6 !important; border-color: #0366d6 !important; color: #ffffff !important; font-size: 1.5rem; padding: 15px 30px; text-decoration: none !important; border-radius: 6px; font-weight: 600;">
+    Submit to CHIdeology
+  </a>
+</div>
 
-* [Microsoft Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx)
-* [LaTeX (Use sample-manuscript.tex for submissions)](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip)
-* [Overleaf (or search for: ACM Conference Proceedings Primary Article)](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)
+### Format Templates
 
-DIS 2026 Pictorial formats are available here:
+**ACM Single Column:** [Word](https://www.acm.org/binaries/content/assets/publications/taps/acm_submission_template.docx) | [LaTeX](https://portalparts.acm.org/hippo/latex_templates/acmart-primary.zip) | [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt)
 
-* [DIS 2026 Pictorials InDesign Template (ZIP)](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-InDesign-template-Folder.zip)
-* [DIS 2026 Pictorials Word Template (ZIP)](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-Word-template-Folder.zip)
-* [DIS 2026 Pictorials PowerPoint Template (ZIP)](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-PowerPoint-template-Folder.zip)
+**DIS 2026 Pictorials:** [InDesign](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-InDesign-template-Folder.zip) | [Word](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-Word-template-Folder.zip) | [PowerPoint](https://dis.acm.org/2026/wp-content/uploads/2025/09/DIS2026-Pictorials-PowerPoint-template-Folder.zip)
 
-Organizers can be contacted via organizers at ideologies.digital if any questions arise.
+---
+
+**Questions?** Organizers can be contacted via **organizers [at] ideologies.digital**.
 
 # Organizers
 
