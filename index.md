@@ -55,7 +55,9 @@ Non-verbal or pictorial contributions are welcome, as the submissions will serve
 
 Submission should be in a PDF format with a maximum file size of 10 MT. The submission deadline is on the fifth of February 2026 AoE. Notifications of acceptance will be sent later in February.
 
-<a href="https://elomake.helsinki.fi/lomakkeet/138226/lomake.html"><button type="button" class="btn btn-primary btn-lg">Submit</button></a>
+ <a href="https://elomake.helsinki.fi/lomakkeet/138226/lomake.html" class="btn btn-primary btn-large" style="font-size: 1.5rem; padding: 15px 30px; display: inline-block; margin: 20px 0;">
+  Submit to CHIdeology
+</a>
 
 ACM single column templates can be found here:
 
