@@ -4,9 +4,27 @@ layout: default
 
 # CHIdeology
 
-<div class="flash flash-info" style="border: none; background-color: #f0f7ff; color: #0550ae; padding: 30px; border-radius: 12px; margin: 20px 0 40px 0;">
-  <h2 style="font-size: 1.4rem; line-height: 1.5; border-bottom: none; margin-top: 0; color: #0550ae !important;">
-    <em>CHI 2026 Workshop on disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
+<div class="flash" style="
+  border: 1px solid rgba(5, 80, 174, 0.1); 
+  background: linear-gradient(135deg, #f0f7ff 0%, #ffffff 100%); 
+  color: #0550ae; 
+  padding: 45px 35px; 
+  border-radius: 16px; 
+  margin: 20px 0 50px 0; 
+  box-shadow: 0 10px 25px rgba(5, 80, 174, 0.05);
+  border-left: 8px solid #0550ae;
+">
+  <h2 style="
+    font-size: 1.6rem; 
+    line-height: 1.4; 
+    border-bottom: none; 
+    margin-top: 0; 
+    color: #1a1a1a !important; 
+    font-family: 'Josefin Sans', sans-serif !important;
+    letter-spacing: -0.02em;
+  ">
+    <span style="color: #0550ae; display: block; font-size: 0.9rem; text-transform: uppercase; letter-spacing: 0.1em; margin-bottom: 10px; font-weight: 800;">CHI 2026 Workshop</span>
+    <em>Disentangling the fragmented politics, values and imaginaries of Human-Computer Interaction through ideologies</em>
   </h2>
 </div>
 
