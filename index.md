@@ -34,6 +34,11 @@ Following this development, our workshop frames political research in HCI at the
 
 Our workshop brings ideologies in HCI to the fore. This is not to say that the theme would have been absent on the field: HCI has engaged with ideologies by criticizing hegemonic perspectives, which are shared by a large fraction of society and therefore create widely accepted norms, like capitalism, individualism or modernism. Differing ideological stances are also reflected in methodological tensions: for example, feminist methodology rejects the notion of objective truth in science and posits that science is shaped by social values. This creates tension with the influence of the natural sciences on computer science and, consequently, HCI. In design, ideologies are present in the differing worldviews of stakeholders. Yet, until now, examples like these have not been examined under a common umbrella. This is precisely what our workshop aims to change.
 
+## Results
+Our workshop included 19 papers. Organizers want to thank all the participants for an inspiring workshop. 
+
+List of the accepted papers can be found here: [Proceedings of CHIdeology](https://arxiv.org/html/2603.10681/)
+
 <div style="background: #ffffff; border: 1px solid #d0d7de; border-radius: 8px; padding: 25px; margin: 40px 0; box-shadow: 0 4px 12px rgba(0,0,0,0.03);">
   <h2 style="margin-top: 0; border-bottom: none;">The Aim for the Workshop</h2>
   <p>We approach ideologies as an object of study and observation and organize a workshop to:</p>
@@ -81,13 +86,7 @@ Nonverbal or pictorial contributions are welcome, as submissions will serve as m
 
 Submission should be in PDF format, with a maximum file size of 10 MB. Acceptance notifications will be sent at the latest on 25th February.
 
-<div style="text-align: center; margin: 40px 0;">
-  <a href="https://elomake.helsinki.fi/lomakkeet/138226/lomake.html" 
-     class="btn btn-primary btn-large" 
-     style="background-color: #0366d6 !important; border-color: #0366d6 !important; color: #ffffff !important; font-size: 1.5rem; padding: 15px 30px; text-decoration: none !important; border-radius: 6px; font-weight: 600;">
-    Submit to CHIdeology
-  </a>
-</div>
+SUBMISSION TIME HAS ENDED
 
 ### Format Templates
 
