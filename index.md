@@ -35,7 +35,7 @@ Following this development, our workshop frames political research in HCI at the
 Our workshop brings ideologies in HCI to the fore. This is not to say that the theme would have been absent on the field: HCI has engaged with ideologies by criticizing hegemonic perspectives, which are shared by a large fraction of society and therefore create widely accepted norms, like capitalism, individualism or modernism. Differing ideological stances are also reflected in methodological tensions: for example, feminist methodology rejects the notion of objective truth in science and posits that science is shaped by social values. This creates tension with the influence of the natural sciences on computer science and, consequently, HCI. In design, ideologies are present in the differing worldviews of stakeholders. Yet, until now, examples like these have not been examined under a common umbrella. This is precisely what our workshop aims to change.
 
 ## Results
-Our workshop included 19 papers. Organizers want to thank all the participants for an inspiring workshop. 
+Our workshop included 19 papers. Organizers want to thank all participants for an inspiring workshop. 
 
 List of the accepted papers can be found here: [Proceedings of CHIdeology](https://arxiv.org/html/2603.10681/)
 
